@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5mknCaiXtRe_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">משחוק לשניידר סופי</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="משחוק_לשניידר_סופי_ORG">
+    <organization identifier="משחוק_לשניידר_סופי_ORG">
+      <title>משחוק לשניידר סופי</title>
+      <item identifier="משחוק_לשניידר_SCO" isvisible="true" identifierref="__5mknCaiXtRe_course_id_RES">
+        <title>משחוק לשניידר סופי</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5mknCaiXtRe_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5ZPCC22u2hW_M_1088_1088_P_53_53_3541_2951.png" />
+      <file href="story_content/5dyHAHVSq21_44100_48_0.mp3" />
+      <file href="story_content/6KQ5DdO0i15_44100_48_0.mp3" />
+      <file href="story_content/5xuLciLWFjh_44100_48_0.mp3" />
+      <file href="mobile/5ZPCC22u2hW_M_1090_1090.png" />
+      <file href="mobile/6hm4FFVTUKL.png" />
+      <file href="mobile/6cpnAgSh8dz_M_816_816.png" />
+      <file href="mobile/5wfnVn7PnHl_M_752_752.png" />
+      <file href="mobile/5gXCFng9Nch_M_864_864.png" />
+      <file href="mobile/63woQ7toMRP_M_672_672.png" />
+      <file href="mobile/6nS1E5HaOIX_M_768_768.png" />
+      <file href="mobile/5shhlMu3cnd_M_736_736.png" />
+      <file href="mobile/5k0pOl7Ru1U_M_784_784.png" />
+      <file href="story_content/6Xg6eUYNBqm_44100_48_0.mp3" />
+      <file href="story_content/6JTMm6xbhhN_44100_48_0.mp3" />
+      <file href="mobile/6ecOFci5MS9.png" />
+      <file href="mobile/5arCJ7DDSpH.png" />
+      <file href="mobile/5h4V3SvbhEO.png" />
+      <file href="mobile/6J9NGQYhksV_M_704_704.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6PcRTRQbmU4.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5a0tK1BbwBO.js" />
+      <file href="html5/data/js/6fcEdfNLi1v.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
